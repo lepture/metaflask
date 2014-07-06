@@ -1,0 +1,8 @@
+Name: Flask-OAuthlib
+Website: https://github.com/lepture/flask-oauthlib
+Github: lepture/flask-oauthlib
+Bugtracker: https://github.com/lepture/flask-oauthlib/issues
+Documentation: https://flask-oauthlib.readthedocs.org/
+PyPI: Flask-OAuthlib
+License: BSD
+Status: active

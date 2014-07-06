@@ -1,0 +1,8 @@
+Name: Flask-WTF
+Website: https://github.com/lepture/flask-wtf
+Github: lepture/flask-wtf
+Bugtracker: https://github.com/lepture/flask-wtf/issues
+Documentation: https://flask-wtf.readthedocs.org/
+PyPI: Flask-WTF
+License: BSD
+Status: active
